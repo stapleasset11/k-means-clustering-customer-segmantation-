@@ -1,1 +1,1 @@
-# k-means-clustering-customer-segmantation-
+# k-means-clustering-customer-segmentation-
